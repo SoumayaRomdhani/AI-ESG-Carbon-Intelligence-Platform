@@ -1,0 +1,9 @@
+company_id,company_name,sector,country,employees,revenue_musd,energy_consumption_mwh,renewable_share_pct,environmental_score,social_score,governance_score,climate_target_year,controversies_count,esg_score,latest_emissions_tco2e
+cmp_001,Nordic Steel Manufacturing,Manufacturing,Sweden,4200,980.0,12500,28,62,71,74,2030,2,67.9,792.57
+cmp_002,BlueGrid Logistics,Transport,Germany,2600,620.0,8900,18,56,68,70,2035,3,63.2,707.61
+cmp_003,HelioFoods,Consumer Goods,France,3100,540.0,6100,41,75,73,76,2030,1,74.8,360.81
+cmp_004,TerraBuild Cement,Construction Materials,Spain,1900,450.0,10200,12,48,60,64,2040,4,55.8,1071.83
+cmp_005,AquaPharm Labs,Healthcare,Netherlands,1600,710.0,4500,53,79,77,81,2030,1,79.1,230.86
+cmp_006,CloudMesh Data Centers,Technology,Ireland,1200,860.0,7600,34,67,72,78,2032,2,71.6,478.76
+cmp_007,Orbit Textile Group,Textiles,Portugal,5200,390.0,6800,22,54,65,61,2038,3,58.8,654.27
+cmp_008,VoltWave Energy Systems,Energy,Denmark,1450,1190.0,14100,61,81,69,83,2029,1,78.6,703.52
